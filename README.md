@@ -1,13 +1,4 @@
 <h2 align="left">Hola👋! Soy MatiDroid Estudiante Ing. Informática En DuocUC.</h2>
-
-###
-
-<div align="center">
-  <img height="150" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -36,6 +27,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/output/snake.svg" alt="Snake animation" />
+
 
 ###
