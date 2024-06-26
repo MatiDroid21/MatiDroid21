@@ -1,7 +1,7 @@
 <h2 align="left">Hola👋! Soy MatiDroid Estudiante Ing. Informática En DuocUC.</h2>
- <h4>Lenguajes que he usado</h4<>
+ <h4>Lenguajes y tecnologías que he usado</h4<>
  <br>
-<div align="left">
+<div align="left" style="margin-top:20px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
