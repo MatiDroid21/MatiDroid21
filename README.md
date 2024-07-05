@@ -1,4 +1,4 @@
-<h2 align="left">Hola👋! Soy MatiDroid Estudiante Ing. Informática En DuocUC.</h2>
+<h2 align="left">Hola👋! Soy Matias Estudiante Ing. Informática En DuocUC.</h2>
  <h4>Lenguajes y tecnologías que he usado</h4<>
  <br>
 <div align="left" style="margin-top:20px">
