@@ -27,9 +27,9 @@
 ---
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center" style="border-radius: 20px; padding: 10px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); width: fit-content; margin: auto;">
+  <img src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%; border-radius: 12px;" />
+</div>
 
 ---
 
