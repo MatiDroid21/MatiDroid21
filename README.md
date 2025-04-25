@@ -26,7 +26,7 @@
 
 ---
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 ---
 
 <h4 align="center">🚀 ¡Gracias por visitar mi perfil!</h4>
