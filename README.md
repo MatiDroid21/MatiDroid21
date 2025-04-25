@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋, soy Mati Droid</h2>
+<h2 align="left">Hola 👋, soy Matías</h2>
 <h4 align="left">🎓 Estudiante de Ingeniería en Informática en DuocUC</h4>
 
 ---
@@ -23,6 +23,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MatiDroid21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatiDroid21&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
+
+---
+
+<h3 align="center">🐍 Snake Eat My Contributions</h3>
+<p align="center">
+  <img src="https://github.com/MatiDroid21/MatiDroid21/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
