@@ -27,8 +27,6 @@
 ---
 ---
 
-<h3 align="center">🐍 Snake de contribuciones</h3>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
