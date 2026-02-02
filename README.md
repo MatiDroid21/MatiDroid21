@@ -1,39 +1,48 @@
 <h2 align="left">Hola 👋, soy Matías</h2>
 <h4 align="left">🎓 Estudiante de Ingeniería en Informática en DuocUC</h4>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MatiDroid21&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="visitas" />
+</p>
+
 ---
 
 <h3 align="left">🛠️ Tecnologías y lenguajes que he utilizado:</h3>
-<div align="left" style="margin-top: 20px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" title="Oracle" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" title="VSCode" />
 </div>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiDroid21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatiDroid21&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MatiDroid21&theme=dracula&hide_border=false&border_radius=8" height="160" alt="GitHub Streak" />
 </div>
-
----
----
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/output/space-shooter.gif" alt="Space Shooter Animation" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/output/github-contribution-grid-snake-dark.svg" alt="snake animation" style="max-width: 100%;" />
 </div>
-
----
 
 ---
 
