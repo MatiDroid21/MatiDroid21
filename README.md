@@ -42,8 +42,8 @@
 
 </div>
 <br/>
-### ✍️ Cita Random Del Día
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+✍️ Cita Random Del Día
+(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
