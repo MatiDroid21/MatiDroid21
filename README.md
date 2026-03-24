@@ -35,8 +35,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MatiDroid21&theme=dracula&hide_border=false&border_radius=8" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiDroid21&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub Streak" />
 </div>
+
 
 ---
 
