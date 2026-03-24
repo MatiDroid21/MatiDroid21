@@ -43,7 +43,7 @@
 </div>
 <br/>
 ✍️ Cita Random Del Día
-(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="">
 
 ---
 
