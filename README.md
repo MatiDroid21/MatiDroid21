@@ -1,7 +1,7 @@
 <h1 align="center">👾 MatiDroid</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Futuro+Ingeniero+en+Informática;Desarrollador+Frontend+en+proceso;Apasionado+por+la+tecnología;Construyendo+mi+camino+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Futuro+Ingeniero+en+Informática;Desarrollador+Frontend+en+proceso;Apasionado+por+la+tecnología;Construyendo+mi+camino+🚀;Hola+Si+Ves+Esto" />
 </p>
 
 <p align="center">
