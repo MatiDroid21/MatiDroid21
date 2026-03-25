@@ -38,12 +38,6 @@
 
 ---
 
-<h2 align="center">👾 Activity</h2>
-
-<div align="center">
-  <img width="80%" src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/output/pacman-contribution-graph-dark.svg?nocache=1"/>
-</div>
-
 ---
 
 <div align="center">
