@@ -1,5 +1,7 @@
 <h1 align="center">👾 MatiDroid</h1>
-
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=matrix" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=22&center=true&vCenter=true&width=600&lines=Futuro+Ingeniero+en+Informática;Frontend+Developer+en+proceso;Construyendo+mi+camino+en+la+tecnología;Luchando+Por+Un+Sueño+⚡" />
 </p>
@@ -27,7 +29,7 @@
 <tr>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=js,vue,html,css,bootstrap,python,java,mysql,oracle,vscode" />
+<img src="https://skillicons.dev/icons?i=js,vue,html,css,bootstrap,python,java,mysql,windows,vscode" />
 
 </td>
 
