@@ -24,7 +24,7 @@
 <tr>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=js,vue,html,css,bootstrap,python,java,mysql,oracle,vscode" />
+<img src="https://skillicons.dev/icons?i=js,vue,html,css,bootstrap,python,java,mysql,vscode" />
 
 </td>
 
