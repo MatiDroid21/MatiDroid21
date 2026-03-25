@@ -1,7 +1,9 @@
-<h1 align="center">Hola 👋, soy Matías</h1>
+<h1 align="center">👾 Hola, soy Matías</h1>
 <h3 align="center">💻 MatiDroid | Futuro Ingeniero en Informática</h3>
 
-<p align="center">🎓 Estudiante de Ingeniería en Informática en DuocUC</p>
+<p align="center">
+  🚀 Apasionado por el desarrollo, la tecnología y construir soluciones reales
+</p>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MatiDroid21.MatiDroid21" />
@@ -10,29 +12,19 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiDroid21&theme=dracula&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatiDroid21&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiDroid21&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatiDroid21&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 ---
 
-<h3 align="center">🛠️ Tecnologías y lenguajes que he utilizado:</h3>
+<h2 align="center">⚡ Tech Stack</h2>
 
 <table align="center">
 <tr>
 <td align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60"/>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
+<img src="https://skillicons.dev/icons?i=js,vue,html,css,bootstrap,python,java,mysql,oracle,vscode" />
 
 </td>
 
@@ -46,7 +38,7 @@
 
 ---
 
-<h3 align="center">👾 Actividad</h3>
+<h2 align="center">👾 Activity</h2>
 
 <div align="center">
   <img width="80%" src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/output/pacman-contribution-graph-dark.svg?nocache=1"/>
@@ -56,4 +48,21 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/output/snake.svg?nocache=1"/>
+</div>
+
+---
+
+<h2 align="center">🧠 Sobre mí</h2>
+
+<p align="center">
+💡 Actualmente trabajando en soporte técnico y desarrollo frontend <br>
+📚 Aprendiendo React y mejorando habilidades como desarrollador <br>
+🎯 Objetivo: trabajar como desarrollador y crecer profesionalmente <br>
+⚡ Interesado en sistemas, automatización y desarrollo web
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=tokyonight"/>
 </div>
