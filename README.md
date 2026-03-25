@@ -60,7 +60,6 @@
 
 <p align="center">
 🧠 Mejorando habilidades en desarrollo web <br>
-⚙️ Construyendo sistemas y automatizaciones <br>
 📈 Creciendo profesionalmente día a día
 </p>
 
