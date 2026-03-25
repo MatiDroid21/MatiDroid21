@@ -1,19 +1,18 @@
-<h1 align="center">👾 Hola, soy Matías</h1>
-<h3 align="center">💻 MatiDroid | Futuro Ingeniero en Informática</h3>
+<h1 align="center">👾 MatiDroid</h1>
 
 <p align="center">
-  🚀 Apasionado por el desarrollo, la tecnología y construir soluciones reales
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Futuro+Ingeniero+en+Informática;Desarrollador+Frontend+en+proceso;Apasionado+por+la+tecnología;Construyendo+mi+camino+🚀" />
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MatiDroid21.MatiDroid21" />
-</div>
+</p>
 
 ---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatiDroid21&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatiDroid21&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiDroid21&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 ---
@@ -24,7 +23,7 @@
 <tr>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=js,vue,html,css,bootstrap,python,java,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=js,vue,html,css,bootstrap,python,java,mysql,oracle,vscode" />
 
 </td>
 
@@ -38,7 +37,7 @@
 
 ---
 
----
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/output/snake.svg?nocache=1"/>
@@ -49,10 +48,20 @@
 <h2 align="center">🧠 Sobre mí</h2>
 
 <p align="center">
-💡 Actualmente trabajando en soporte técnico y desarrollo frontend <br>
-📚 Aprendiendo React y mejorando habilidades como desarrollador <br>
-🎯 Objetivo: trabajar como desarrollador y crecer profesionalmente <br>
-⚡ Interesado en sistemas, automatización y desarrollo web
+💻 Trabajo en soporte técnico mientras evoluciono a desarrollo <br>
+⚡ Experiencia en frontend con Vue, JS y Bootstrap <br>
+📚 Aprendiendo React y fortaleciendo lógica de programación <br>
+🎯 Objetivo: convertirme en desarrollador profesional
+</p>
+
+---
+
+<h2 align="center">🚀 En progreso</h2>
+
+<p align="center">
+🧠 Mejorando habilidades en desarrollo web <br>
+⚙️ Construyendo sistemas y automatizaciones <br>
+📈 Creciendo profesionalmente día a día
 </p>
 
 ---
