@@ -20,8 +20,9 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://developer.android.com/static/images/shared/pointing-1.gif"  />
-
+<p align="right">
+  <img height="200" src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/main/assets/pointing.gif"/>
+</p>
 ###
 
 <div align="center">
