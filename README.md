@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=22&center=true&vCenter=true&width=600&lines=Futuro+Ingeniero+en+Informática;Frontend+Developer+en+proceso;Construyendo+mi+camino+en+la+tecnología;Luchando+Por+Un+Sueño+⚡" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MatiDroid21.MatiDroid21&color=00ff41" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo/assets/matrix.svg" />
+</div>
 
 ---
 
