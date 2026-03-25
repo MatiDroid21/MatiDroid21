@@ -21,7 +21,7 @@
 <br clear="both">
 
 <p align="right">
-  <img height="200" src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/main/assets/pointing.gif"/>
+  <img height="200" src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/main/assets/pointing-1.gif"/>
 </p>
 ###
 
